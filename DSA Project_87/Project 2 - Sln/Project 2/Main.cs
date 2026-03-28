@@ -258,7 +258,7 @@ namespace Project_2
                                                                 //YES this is O(n) time just for a display function
                                                                 //YES im kinda crazy lol
                                                                 //You know what im gonna add a timer to this for fun
-            {                                                   //Good luck on the 500k dataset LMAO 💀
+            {                                                   //Good luck on the 100M dataset LMAO 💀
                 Console.WriteLine(p);
             }
             stopwatch.Stop();
