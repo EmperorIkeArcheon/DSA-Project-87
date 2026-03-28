@@ -1,0 +1,14 @@
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\bin\Debug\net10.0\Project 2.exe
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\bin\Debug\net10.0\Project 2.deps.json
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\bin\Debug\net10.0\Project 2.runtimeconfig.json
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\bin\Debug\net10.0\Project 2.dll
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\bin\Debug\net10.0\Project 2.pdb
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\obj\Debug\net10.0\Project 2.GeneratedMSBuildEditorConfig.editorconfig
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\obj\Debug\net10.0\Project 2.AssemblyInfoInputs.cache
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\obj\Debug\net10.0\Project 2.AssemblyInfo.cs
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\obj\Debug\net10.0\Project 2.csproj.CoreCompileInputs.cache
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\obj\Debug\net10.0\Project 2.dll
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\obj\Debug\net10.0\refint\Project 2.dll
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\obj\Debug\net10.0\Project 2.pdb
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\obj\Debug\net10.0\Project 2.genruntimeconfig.cache
+B:\School - UF\Data Structs\DSA Project_87\Project 2 - Sln\Project 2\obj\Debug\net10.0\ref\Project 2.dll

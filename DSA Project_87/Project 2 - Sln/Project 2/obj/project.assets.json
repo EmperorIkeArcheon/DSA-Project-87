@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\School - UF\\Data Structs\\Project_87\\Project 2 - Sln\\Project 2\\Project 2.csproj",
+      "projectUniqueName": "B:\\School - UF\\Data Structs\\DSA Project_87\\Project 2 - Sln\\Project 2\\Project 2.csproj",
       "projectName": "Project 2",
-      "projectPath": "B:\\School - UF\\Data Structs\\Project_87\\Project 2 - Sln\\Project 2\\Project 2.csproj",
+      "projectPath": "B:\\School - UF\\Data Structs\\DSA Project_87\\Project 2 - Sln\\Project 2\\Project 2.csproj",
       "packagesPath": "C:\\Users\\miker\\.nuget\\packages\\",
-      "outputPath": "B:\\School - UF\\Data Structs\\Project_87\\Project 2 - Sln\\Project 2\\obj\\",
+      "outputPath": "B:\\School - UF\\Data Structs\\DSA Project_87\\Project 2 - Sln\\Project 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miker\\AppData\\Roaming\\NuGet\\NuGet.Config",
